@@ -1,0 +1,17 @@
+How to install custom hitsounds:
+
+((Delete your previous hitsounds, if applicable))
+
+1) Create a folder named "sound" in the following directory:
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\[LIONHUD DIRECTORY]\
+
+2) Create another folder inside of "sound" named "ui"
+	
+3) Choose your favorite hit/killsounds and drop them in that folder.
+
+Feel free to mix and match! All you have to do is rename any of the files.
+
+•hitsound.wav is for your hitsound
+•killsound.wav is the sound that plays when you kill an enemy
+
+shocking i know
