@@ -1,0 +1,5 @@
+	#base	"../../_stream/resource/ui/surveypanel_mapquality.res"
+	#base	"../../_lionhud/resource/ui/surveypanel_mapquality.res"
+	#base	"../../_jofrehud/resource/ui/surveypanel_mapquality.res"
+	#base	"../../_jofrehud/_tf2fix/resource/ui/surveypanel_mapquality.res"
+//	#base	"../../_tf2hud/resource/ui/surveypanel_mapquality.res"
