@@ -468,14 +468,22 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"44"
-				//"tall_lodef"	"52"
+				////"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 				"dropshadow"	"1"
 			}
 		}
-		
+		"Blank"
+		{
+			"1"
+			{
+				"name"		"Segoe UI"
+				"tall"		"2"
+				"yres"	"0 2000"
+			}
+		}		
 		"Default"
 		{
 			"1"
@@ -788,7 +796,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"24"
-				//"tall_lodef"	"80"
+				////"tall_lodef"	"80"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -798,7 +806,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"32"
-				//"tall_hidef"	"120"
+				////"tall_hidef"	"120"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -838,7 +846,7 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"44"
-				//"tall_lodef"	"52"
+				////"tall_lodef"	"52"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -851,7 +859,7 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"35"
-				//"tall_lodef"	"40"
+				////"tall_lodef"	"40"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -864,7 +872,7 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"35"
-				//"tall_lodef"	"40"
+				////"tall_lodef"	"40"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -887,7 +895,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"36"
-				//"tall_hidef"	"48"
+				////"tall_hidef"	"48"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -932,7 +940,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"24"
-				//"tall_lodef"		"28"
+				////"tall_lodef"		"28"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1010,8 +1018,8 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
+				////"tall_hidef"	"24"
+				////"tall_lodef"	"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1023,8 +1031,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"20"
+				////"tall_hidef"	"24"
+				////"tall_lodef"	"20"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1036,7 +1044,7 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"14"
-				//"tall_lodef"	"16"
+				////"tall_lodef"	"16"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1193,8 +1201,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"12"
-				//"tall_hidef"	"14"
-				//"tall_lodef"	"16"
+				////"tall_hidef"	"14"
+				////"tall_lodef"	"16"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1281,8 +1289,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
+				////"tall_hidef"	"24"
+				////"tall_lodef"	"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1294,8 +1302,8 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"16"
-				//"tall_hidef"	"22"
-				//"tall_lodef"	"22"
+				////"tall_hidef"	"22"
+				////"tall_lodef"	"22"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1329,8 +1337,8 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"8"
-				//"tall_hidef"	"9"
-				//"tall_lodef"	"10"
+				////"tall_hidef"	"9"
+				////"tall_lodef"	"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1342,7 +1350,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"8"
-				//"tall_hidef"	"7"
+				////"tall_hidef"	"7"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1478,7 +1486,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"24"
-				//"tall_hidef"	"32"
+				////"tall_hidef"	"32"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1489,7 +1497,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"24"
-				//"tall_hidef"	"32"
+				////"tall_hidef"	"32"
 				"weight"	"500"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1501,7 +1509,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"24"
-				//"tall_hidef"	"32"
+				////"tall_hidef"	"32"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1512,7 +1520,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"24"
-				//"tall_hidef"	"32"
+				////"tall_hidef"	"32"
 				"weight"	"900"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1524,7 +1532,7 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"		"16"
-				//"tall_hidef"	"24"
+				////"tall_hidef"	"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -1569,7 +1577,7 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"11"
-				//"tall_lodef"	"14"
+				////"tall_lodef"	"14"
 				"antialias" "1"
 				"weight"	"500"
 			}
@@ -1591,8 +1599,8 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"13"
-				//"tall_hidef"	"14"
-				//"tall_lodef"	"17"
+				////"tall_hidef"	"14"
+				////"tall_lodef"	"17"
 				"weight"	"800"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1605,8 +1613,8 @@ Scheme
 			{
 				"name"			"TF2 Professor"
 				"tall"			"28"
-				//"tall_lodef"	"48"
-				//"tall_hidef"	"48"
+				////"tall_lodef"	"48"
+				////"tall_hidef"	"48"
 				"antialias"		"1" 
 				"custom"		"1" [$OSX]
 				"weight"		"500"
@@ -1620,8 +1628,8 @@ Scheme
 			{
 				"name"			"TF2 Professor"
 				"tall"			"40"
-				//"tall_lodef"	"48"
-				//"tall_hidef"	"48"
+				////"tall_lodef"	"48"
+				////"tall_hidef"	"48"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
 				"weight"		"500"
@@ -1635,8 +1643,8 @@ Scheme
 			{
 				"name"		"TF2 Professor"
 				"tall"		"24"
-				//"tall_lodef"	"36"
-				//"tall_hidef"	"36"
+				////"tall_lodef"	"36"
+				////"tall_hidef"	"36"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
 				"weight"	"500"
@@ -1649,8 +1657,8 @@ Scheme
 				"name"			"TF2 Professor"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
-				//"tall_lodef"	"32"
-				//"tall_hidef"	"32"
+				////"tall_lodef"	"32"
+				////"tall_hidef"	"32"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
 				"weight"		"500"
@@ -1662,8 +1670,8 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"8"
-				//"tall_hidef"	"10"
-				//"tall_lodef"	"14"
+				////"tall_hidef"	"10"
+				////"tall_lodef"	"14"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1675,8 +1683,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"10"
-				//"tall_hidef"	"12"
-				//"tall_lodef"	"14"
+				////"tall_hidef"	"12"
+				////"tall_lodef"	"14"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -1712,8 +1720,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"20"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"24"
+				////"tall_hidef"	"24"
+				////"tall_lodef"	"24"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1751,8 +1759,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"34"
-				//"tall_hidef"	"38"
-				//"tall_lodef"	"38"
+				////"tall_hidef"	"38"
+				////"tall_lodef"	"38"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
@@ -1766,7 +1774,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"36"
-				//"tall_hidef"	"48"
+				////"tall_hidef"	"48"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -1778,7 +1786,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"52"
-				//"tall_lodef"		"80"
+				////"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"1 599"
@@ -1788,7 +1796,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"72"
-				//"tall_hidef"	"120"
+				////"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
 				"yres"		"600 767"
@@ -1885,8 +1893,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"10"
-				//"tall_hidef"	"12"
-				//"tall_lodef"	"14"
+				////"tall_hidef"	"12"
+				////"tall_lodef"	"14"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
@@ -2029,7 +2037,7 @@ Scheme
 			{
 				"name"			"Arial Black"
 				"tall"			"8"
-				//"tall_lodef"	"12"
+				////"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
 				"antialias"		"1"
@@ -2042,7 +2050,7 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"14"
-				//"tall_lodef"	"18"
+				////"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
 				//"weight_lodef"	"600"
@@ -2080,8 +2088,8 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"8"
-				//"tall_hidef"	"10"
-				//"tall_lodef"	"12"
+				////"tall_hidef"	"10"
+				////"tall_lodef"	"12"
 				"weight"	"0"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2093,8 +2101,8 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"9"
-				//"tall_hidef"	"10"
-				//"tall_lodef"	"16"
+				////"tall_hidef"	"10"
+				////"tall_lodef"	"16"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2120,7 +2128,7 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"36"
-				//"tall_lodef"		"28"
+				////"tall_lodef"		"28"
 				"weight"	"500"
 			}
 		}
@@ -2130,7 +2138,7 @@ Scheme
 			{
 				"name"		"TF2 Build"
 				"tall"		"30"
-				//"tall_lodef"		"22"
+				////"tall_lodef"		"22"
 				"weight"	"500"
 			}
 		}
@@ -2140,7 +2148,7 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"28"
-				//"tall_lodef"	"24"
+				////"tall_lodef"	"24"
 				"weight"	"500"
 			}
 		}
@@ -2186,7 +2194,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"22"
-				//"tall_lodef"		"18"
+				////"tall_lodef"		"18"
 				"weight"	"900"
 			}
 		}
@@ -2196,7 +2204,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"18"
-				//"tall_lodef"		"18"
+				////"tall_lodef"		"18"
 				"weight"	"900"
 			}
 		}
@@ -2903,8 +2911,8 @@ Scheme
 			{
 				"name"		"TF2"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"18"
+				////"tall_hidef"	"24"
+				////"tall_lodef"	"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2927,8 +2935,8 @@ Scheme
 			{
 				"name"		"TF2 Secondary"
 				"tall"		"18"
-				//"tall_hidef"	"24"
-				//"tall_lodef"	"20"
+				////"tall_hidef"	"24"
+				////"tall_lodef"	"20"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"

@@ -42,7 +42,7 @@
 		"xpos"			"r190"
 		//"xpos_hidef"			"r200"
 		"ypos"			"r40"
-		//"ypos_lodef"			"r64"
+		////"ypos_lodef"			"r64"
 		//"ypos_hidef"			"r54"
 		"zpos"			"6"
 		"wide"			"150"

@@ -257,7 +257,7 @@
 		"xpos_lodef"		"40"
 		"ypos"		"0"
 		"ypos_hidef"		"16"
-		"ypos_lodef"		"25"
+		//"ypos_lodef"		"25"
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -604,7 +604,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"65"
-		"ypos_lodef"			"75"
+		//"ypos_lodef"			"75"
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -617,7 +617,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"15"
-		"ypos_lodef"			"75"
+		//"ypos_lodef"			"75"
 		"wide"					"320"
 		"tall"					"245"
 	}
@@ -630,7 +630,7 @@
 		"xpos"					"c-160"
 		"ypos"					"75"
 		"ypos_hidef"				"90"
-		"ypos_lodef"			"90"
+		//"ypos_lodef"			"90"
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -643,7 +643,7 @@
 		"xpos"					"c-160"
 		"ypos"					"75"
 		"ypos_hidef"				"90"
-		"ypos_lodef"				"90"
+		//"ypos_lodef"				"90"
 		"wide"					"320"
 		"tall"					"150"
 	}
@@ -667,7 +667,7 @@
 		"enabled"				"1"
 		"xpos"					"c-160"
 		"ypos"					"65"
-		"ypos_lodef"				"75"
+		//"ypos_lodef"				"75"
 		"wide"					"320"
 		"tall"					"100"
 	}
@@ -678,7 +678,7 @@
 		"enabled"				"1"
 		"xpos"					"c-125"
 		"ypos"					"5"
-		"ypos_lodef"				"75"
+		//"ypos_lodef"				"75"
 		"zpos"					"2"
 		"wide"					"250"
 		"tall"					"80"
@@ -691,7 +691,7 @@
 		"enabled"				"1"
 		"xpos"					"c-90"
 		"ypos"					"-70"
-		"ypos_lodef"				"75"
+		//"ypos_lodef"				"75"
 		"wide"					"180"
 		"tall"					"65"
 	}
@@ -704,7 +704,7 @@
 		"xpos"					"c-160"
 		"ypos"					"5"
 		"ypos_minbad"				"15"
-		"ypos_lodef"				"75"
+		//"ypos_lodef"				"75"
 		"wide"					"125"
 		"tall"					"55"
 	}
@@ -837,7 +837,7 @@
 		"wide"			"470"
 		"tall"			"370"
 		"ypos_hidef"	"c-42"
-		"ypos_lodef"	"c-42"
+		//"ypos_lodef"	"c-42"
 		"PaintBackgroundType"	"0"
 	}
 

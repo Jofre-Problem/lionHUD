@@ -366,7 +366,7 @@
 		"xpos"			"11"
 		//"xpos_hidef"	"31"
 		"ypos"			"60"
-		//"ypos_lodef"	"62"
+		////"ypos_lodef"	"62"
 		"wide"			"300"
 		"tall"			"20"
 		"autoResize"	"0"

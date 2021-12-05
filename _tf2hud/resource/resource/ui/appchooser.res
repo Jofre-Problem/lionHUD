@@ -8,7 +8,7 @@
 
 		//"ypos_hidef"		"80"
 		//"wide_hidef"		"748"
-		//"tall_hidef"		"240"		
+		////"tall_hidef"		"240"		
 
 		"ypos_hidef_norm"	"95"
 		"wide_hidef_norm"	"748"
@@ -34,7 +34,7 @@
 
 		//"ypos_hidef"		"425"
 		//"wide_hidef"		"212"
-		//"tall_hidef"		"245"
+		////"tall_hidef"		"245"
 		"gap_hidef"			"18"
 		
 		"ypos_hidef_norm"	"458"
@@ -53,7 +53,7 @@
 
 		//"ypos_hidef"		"13"
 		//"wide_hidef"		"186"
-		//"tall_hidef"		"105"
+		////"tall_hidef"		"105"
 
 		"ypos_hidef_norm"	"10"
 		"wide_hidef_norm"	"156"

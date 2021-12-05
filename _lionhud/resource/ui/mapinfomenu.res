@@ -82,7 +82,7 @@
 		"wide"			"275"
 		"wide_lodef"	"225"
 		"tall"			"275"
-		"tall_lodef"	"225"
+		//"tall_lodef"	"225"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			""

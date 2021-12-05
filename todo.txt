@@ -1,0 +1,5 @@
+TODO:
+- Fix Catalog
+- Fix Low HP & Ammo
+- Fix wait for respawn timer
+- Update Jofrehud

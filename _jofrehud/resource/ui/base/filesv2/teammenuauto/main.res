@@ -9,7 +9,7 @@
 		//"xpos_lodef"			"c-255"
 		//"xpos_hidef"			"c-260"
 		"ypos"			"55"
-		//"ypos_lodef"			"72"
+		////"ypos_lodef"			"72"
 		//"ypos_hidef"			"65"
 		"zpos"			"1"
 		"wide"			"102" [$WIN32] 
@@ -35,7 +35,7 @@
 		//"xpos_lodef"			"c-125"
 		//"xpos_hidef"			"c-109"
 		"ypos"			"255"
-		//"ypos_lodef"	"292"
+		////"ypos_lodef"	"292"
 		"zpos"			"1"
 		"wide"			"44"
 		//"wide_lodef"	"70"
