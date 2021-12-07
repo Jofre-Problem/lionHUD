@@ -1,4 +1,8 @@
-
+event CollectionCrafting_ItemRecieved
+{
+	RunEvent DefaultAnimCollectionCrafting_ItemRecieved 0
+	Animate		TradeUpContainer	wide 0			Accel	0	0	// Fix Trade-Up Background
+}
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {

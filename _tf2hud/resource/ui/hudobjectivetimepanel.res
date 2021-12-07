@@ -83,7 +83,7 @@
 		"wrap"			"0"
 		"font"			"ClockSubTextTiny"
 		//"font_hidef"	"HudFontSmall"
-		//"font_lodef"	"HudFontSmall"
+		////"font_lodef"	"HudFontSmall"
 
 		if_match
 		{
@@ -94,7 +94,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			//"font_hidef"			"HudFontSmallestBold"
-			//"font_lodef"			"HudFontSmallestBold"
+			////"font_lodef"			"HudFontSmallestBold"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -147,7 +147,7 @@
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		//"font_hidef"	"HudFontSmall"
-		//"font_lodef"	"HudFontSmall"
+		////"font_lodef"	"HudFontSmall"
 
 		if_match
 		{
@@ -158,7 +158,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			//"font_hidef"			"HudFontSmallestBold"
-			//"font_lodef"			"HudFontSmallestBold"
+			////"font_lodef"			"HudFontSmallestBold"
 		}
 	}			
 	"OvertimeBG"
@@ -211,7 +211,7 @@
 		"wrap"			"0"
 		"font"			"ClockSubTextSuddenDeath"
 		//"font_hidef"	"HudFontSmall"
-		//"font_lodef"	"HudFontSmall"
+		////"font_lodef"	"HudFontSmall"
 
 		if_match
 		{
@@ -222,7 +222,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			//"font_hidef"			"HudFontSmallestBold"
-			//"font_lodef"			"HudFontSmallestBold"
+			////"font_lodef"			"HudFontSmallestBold"
 		}
 	}			
 	"SuddenDeathBG"
@@ -276,7 +276,7 @@
 		"font"			"ClockSubText"
 		//"font_minmode"	"ClockSubTextSuddenDeath"
 		//"font_hidef"	"HudFontSmall"
-		//"font_lodef"	"HudFontSmall"
+		////"font_lodef"	"HudFontSmall"
 
 		if_match
 		{
@@ -287,7 +287,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			//"font_hidef"			"HudFontSmallestBold"
-			//"font_lodef"			"HudFontSmallestBold"
+			////"font_lodef"			"HudFontSmallestBold"
 		}
 	}	
 	"SetupBG"
@@ -341,7 +341,7 @@
 		"font"			"ClockSubText"
 		//"font_minmode"	"ClockSubTextSuddenDeath"
 		//"font_hidef"	"HudFontSmall"
-		//"font_lodef"	"HudFontSmall"
+		////"font_lodef"	"HudFontSmall"
 
 		if_match
 		{
@@ -352,7 +352,7 @@
 			"wide"					"p1"
 			"font"					"HudFontSmallestBold"
 			//"font_hidef"			"HudFontSmallestBold"
-			//"font_lodef"			"HudFontSmallestBold"
+			////"font_lodef"			"HudFontSmallestBold"
 		}
 	}	
 	"ServerTimeLimitLabelBG"

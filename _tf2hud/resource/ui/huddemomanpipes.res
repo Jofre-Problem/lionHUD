@@ -118,7 +118,7 @@
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			//"font_minmode"	"HudFontSmall"
-			//"font_lodef"	"HudFontMediumBig"
+			////"font_lodef"	"HudFontMediumBig"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -143,7 +143,7 @@
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			//"font_minmode"	"HudFontSmall"
-			//"font_lodef"	"HudFontMediumBig"
+			////"font_lodef"	"HudFontMediumBig"
 			"fgcolor"		"black"
 		}		
 	}
@@ -201,7 +201,7 @@
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			//"font_minmode"	"HudFontSmall"
-			//"font_lodef"	"HudFontMediumBig"
+			////"font_lodef"	"HudFontMediumBig"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -226,7 +226,7 @@
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
 			//"font_minmode"	"HudFontSmall"
-			//"font_lodef"	"HudFontMediumBig"
+			////"font_lodef"	"HudFontMediumBig"
 			"fgcolor"		"black"
 		}			
 	}				

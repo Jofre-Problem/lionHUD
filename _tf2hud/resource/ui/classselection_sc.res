@@ -173,7 +173,7 @@
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		//"font_lodef"			"MenuMainTitle"
+		////"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
 		"fgcolor_lodef"	"TanLight"
 	}
@@ -449,7 +449,7 @@
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		//"font_lodef"			"MenuMainTitle"
+		////"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
 		"fgcolor_lodef"	"TanLight"
 	}
@@ -717,7 +717,7 @@
 		"labelText"		"#TF_Support"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		//"font_lodef"			"MenuMainTitle"
+		////"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
 		"fgcolor_lodef"	"TanLight"
 	}
@@ -1148,7 +1148,7 @@
 		"textAlignment"	"left"
 		"wrap"			"1"
 		"font"			"HudFontMediumSmallSecondary"
-		//"font_lodef"	"HudFontMediumSmallSecondary"
+		////"font_lodef"	"HudFontMediumSmallSecondary"
 		"fgcolor"		"HudTrainingHint"
 		"fgcolor_lodef"	"HudTrainingHint"
 	}

@@ -185,7 +185,7 @@
 			"labelText"		"%flagvalue%"
 			"font"			"HudFontMediumBold"
 			//"font_hidef"	"HudFontGiant"
-			//"font_lodef"	"HudFontGiant"
+			////"font_lodef"	"HudFontGiant"
 			"fgcolor"		"TanLight"	
 			"proportionalToParent"	"1"	
 		}	
@@ -207,7 +207,7 @@
 			"labelText"		"%flagvalue%"
 			"font"			"HudFontMediumBold"
 			//"font_hidef"	"HudFontGiant"
-			//"font_lodef"	"HudFontGiant"
+			////"font_lodef"	"HudFontGiant"
 			"fgcolor"		"Black"	
 			"proportionalToParent"	"1"	
 		}
@@ -573,7 +573,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"
-				//"font_lodef"	"HudFontGiant"
+				////"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"		
 				"proportionalToParent"	"1"
 			}	
@@ -593,7 +593,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"
-				//"font_lodef"	"HudFontGiant"
+				////"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}
@@ -628,7 +628,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"
-				//"font_lodef"	"HudFontGiant"
+				////"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"	
 				"proportionalToParent"	"1"	
 			}	
@@ -648,7 +648,7 @@
 				"labelText"		"%score%"
 				"font"			"HudFontMediumBold"
 				//"font_hidef"	"HudFontGiant"
-				//"font_lodef"	"HudFontGiant"
+				////"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
 				"proportionalToParent"	"1"
 			}

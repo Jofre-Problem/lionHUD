@@ -130,7 +130,7 @@
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		//"font_hidef"	"HudFontGiant"
-		//"font_lodef"	"HudFontGiant"
+		////"font_lodef"	"HudFontGiant"
 		"fgcolor"		"TanLight"
 		
 		"if_hybrid"
@@ -168,7 +168,7 @@
 		"labelText"		"%bluescore%"
 		"font"			"HudFontBig"
 		//"font_hidef"	"HudFontGiant"
-		//"font_lodef"	"HudFontGiant"
+		////"font_lodef"	"HudFontGiant"
 		"fgcolor"		"Black"
 		
 		"if_hybrid"
@@ -206,7 +206,7 @@
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
 		//"font_hidef"	"HudFontGiant"
-		//"font_lodef"	"HudFontGiant"
+		////"font_lodef"	"HudFontGiant"
 		"fgcolor"		"TanLight"		
 		
 		"if_hybrid"
@@ -244,7 +244,7 @@
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
 		//"font_hidef"	"HudFontGiant"
-		//"font_lodef"	"HudFontGiant"
+		////"font_lodef"	"HudFontGiant"
 		"fgcolor"		"Black"		
 		
 		"if_hybrid"

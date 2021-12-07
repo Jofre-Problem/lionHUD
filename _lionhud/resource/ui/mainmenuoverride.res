@@ -1101,18 +1101,7 @@
 	}
 	"StoreHasNewItemsImage"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"StoreHasNewItemsImage"
-		"xpos"			"rs1-150"
-		"ypos"			"rs1-160"
-		"zpos"			"13"
-		"wide"			"32"
-		"tall"			"32"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../vgui/new"
-		"scaleImage"	"1"
-		"mouseinputenabled"	"0"
+		"wide"			"0"
 	}
 	"EventPromo"
 	{

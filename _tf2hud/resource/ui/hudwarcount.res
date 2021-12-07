@@ -87,7 +87,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontMedium"
-		//"font_lodef"	"HudFontMediumBig"
+		////"font_lodef"	"HudFontMediumBig"
 	}
 	"NumPipesLabelDropshadow"
 	{
@@ -109,7 +109,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontMedium"
-		//"font_lodef"	"HudFontMediumBig"
+		////"font_lodef"	"HudFontMediumBig"
 		"fgcolor"		"black"
 	}		
 }

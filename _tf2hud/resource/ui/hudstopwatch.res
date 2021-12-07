@@ -73,7 +73,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			//"font_minmode"		"HudFontMediumSmall"
-			//"font_lodef"		"HudFontMedium"
+			////"font_lodef"		"HudFontMedium"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			//"xpos_minmode"		"23"

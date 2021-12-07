@@ -51,7 +51,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			//"font_minmode"	"HudFontSmall"
-			//"font_lodef"	"HudFontMedium"
+			////"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			//"xpos_minmode"	"39"
@@ -84,7 +84,7 @@
 				//"wide_minmode"	"35"
 				"font"			"HudFontSmall"
 				//"font_minmode"	"HudFontSmall"
-				//"font_lodef"	"HudFontSmall"
+				////"font_lodef"	"HudFontSmall"
 			
 			}
 		}	
@@ -133,7 +133,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			//"font_minmode"	"HudFontSmall"
-			//"font_lodef"	"HudFontMedium"
+			////"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			//"xpos_minmode"	"39"
@@ -166,7 +166,7 @@
 				"tall"			"10"
 				"font"			"HudFontSmall"
 				//"font_minmode"	"HudFontSmall"
-				//"font_lodef"	"HudFontSmall"
+				////"font_lodef"	"HudFontSmall"
 			
 			}
 		}	

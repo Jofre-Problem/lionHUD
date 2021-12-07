@@ -70,6 +70,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontMediumSmall"
-		//"font_lodef"	"HudFontMedium"
+		////"font_lodef"	"HudFontMedium"
 	}
 }

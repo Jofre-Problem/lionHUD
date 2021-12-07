@@ -115,7 +115,7 @@
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		//"font_lodef"			"MenuMainTitle"
+		////"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
 		"fgcolor_lodef"	"TanLight"
 	}
@@ -333,7 +333,7 @@
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		//"font_lodef"			"MenuMainTitle"
+		////"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
 		"fgcolor_lodef"	"TanLight"
 	}
@@ -545,7 +545,7 @@
 		"labelText"		"#TF_Support"
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
-		//"font_lodef"			"MenuMainTitle"
+		////"font_lodef"			"MenuMainTitle"
 		"fgcolor"		"TanDark"
 		"fgcolor_lodef"	"TanLight"
 	}

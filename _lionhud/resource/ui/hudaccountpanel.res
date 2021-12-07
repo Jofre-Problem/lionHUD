@@ -96,7 +96,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontMedium"
-		"font_lodef"	"HudFontMedium"
+		//"font_lodef"	"HudFontMedium"
 	}
 	
 		"AccountValueShadow"
@@ -119,7 +119,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontMedium"
-		"font_lodef"	"HudFontMedium"
+		//"font_lodef"	"HudFontMedium"
 		"fgcolor_override"	"black"
 	}
 }
