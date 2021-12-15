@@ -1,3 +1,4 @@
+#base "econ/q_e_btn.res"
 "Resource/UI/ItemSelectionPanel.res"
 {
 	"ItemSelectionPanel"
