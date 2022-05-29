@@ -113,7 +113,7 @@ Scheme
 		Slider.DisabledTextColor1	"TFTextMediumDark"
         Slider.DisabledTextColor2	"Blank"
 		
-		TextEntry.TextColor			        "TFTextMedium" //
+		TextEntry.TextColor			        "245 245 245 255" //
 		TextEntry.DisabledTextColor	        "TFTextMediumDark"
 		TextEntry.SelectedBgColor	        "TFOrangeBright"
 	}

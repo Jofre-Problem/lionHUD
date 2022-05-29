@@ -79,20 +79,7 @@
 		"use_proportional_insets_minmode"	"1"
 		// how do you even find this 
 		"zpos"		"10"
-		"font" "HudFontSmall12"
-	}
-	"ReinforcementsLabelShadow"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"ReinforcementsLabelShadow"
-		"xpos"			"c-102"
-		"ypos"			"70"		//50
-		"wide"			"202"
-		"tall"			"28"
-		"autoResize"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor" "TanDarker"
+		"font" "StorePromotionsTitle"
 	}
 	"BuyBackLabel"
 	{
@@ -143,8 +130,6 @@
 		//"ypos_hidef"	"90"
 		//"ypos_lodef"	"30"	
 		"wide"			"170"
-		"wide_hidef"	"130"
-		"wide_lodef"	"220"
 		"tall"			"15"
 		//"tall_lodef"	"25"
 		"zpos"			"2"
@@ -154,9 +139,6 @@
 		"enabled"		"1"
 		"labelText"		"#TF_Spectator_ChangeTeam"
 		"textAlignment"		"center"
-		"font_hidef"	"HudFontSmallBoldShadow"
-		"font_lodef"	"HudFontSmall"
-		"wrap_lodef"			"1"
 	}
 	"SwitchCamModeKeyLabel"
 	{
