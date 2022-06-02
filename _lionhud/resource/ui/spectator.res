@@ -60,13 +60,13 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"
-		"xpos_minmode"	"0"			//c-300
+		//c-300
 		"ypos"			"70"		//50
-		"ypos_minmode"	"3"
+
 		//"ypos_hidef"	"79"
 		//"ypos_lodef"	"85"
 		"wide"			"600"
-		"wide_minmode"	"300"
+
 		"tall"			"18"
 		//"tall_hidef"		"23"
 		"autoResize"		"0"
@@ -75,7 +75,6 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"textAlignment_minmode"				"west"
 		"use_proportional_insets_minmode"	"1"
 		// how do you even find this 
 		"zpos"		"10"
