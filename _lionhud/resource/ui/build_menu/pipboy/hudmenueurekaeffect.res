@@ -2,19 +2,18 @@
 {
 	"MainBackground"	
 	{
-		"ControlName"	"CIconPanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"MainBackground"
 		"xpos"			"0"
-		"ypos"			"10"
+		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"250"
-		"tall"			"170"
+		"wide"			"450"
+		"tall"			"180"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
 		"paintbackground" "0"
 	}
-
+	
 	"ItemBackground"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -22,7 +21,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-2"
-		"wide"			"250"
+		"wide"			"450"
 		"tall"			"180"
 		"visible"		"1"
 		"enabled"		"1"
@@ -31,37 +30,20 @@
 		"tileImage"		"1"
 		"drawcolor"		"192 192 192 255"
 	}
-	"BackgroundEngineer"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"BackgroundEngineer"
-		"xpos"			"205"
-		"ypos"			"140"
-		"zpos"			"-1"
-		"wide"			"40"
-		"tall"			"40"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"image"			"pipboy_engineer"
-		"tileImage"		"0"
-		"tileVertically" "0"
-	}
-
-	"BuildIcon"	
+	"BuildIconShadow"	
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"BuildIcon"
-		"xpos"			"15"
-		"ypos"			"-8"
-		"zpos"			"1"
+		"fieldName"		"BuildIconShadow"
+		"xpos"			"16"
+		"ypos"			"-7"
+		"zpos"			"0"
 		"wide"			"48"
 		"tall"			"48"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"0 0 0 255"
 	}
 	
 	"TitleLabel"
@@ -82,7 +64,27 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
+	}
+	
+	"TitleLabelDropshadow"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"TitleLabelDropshadow"
+		"font"			"HudFontGiant"
+		"fgcolor"		"Black"
+		"xpos"			"70"			// align me to the left edge of the first selection
+		"ypos"			"10"
+		"zpos"			"1"
+		"wide"			"300"
+		"tall"			"38"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#Hud_Menu_Teleport_Title"
+		"textAlignment"	"Left"
+		"dulltext"		"1"
+		"brighttext"	"0"
 	}
 	
 	"CancelLabel"
@@ -103,7 +105,6 @@
 		"textAlignment"	"East"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
 	}
 	
 	"available_target_1"

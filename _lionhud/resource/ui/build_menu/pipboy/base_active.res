@@ -19,31 +19,30 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
 	}
 
 	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
-		"xpos"			"4"
-		"ypos"			"14"
+		"xpos"			"2"
+		"ypos"			"13"
 		"zpos"			"0"
-		"wide"			"98"
-		"tall"			"105"
+		"wide"			"73"
+		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
-		"iconColor"		"0 0 0 255"
+		"iconColor"		"ProgressOffWhite"
 	}
 	
 	"BuildingIcon"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildingIcon"
-		"xpos"			"22"
-		"ypos"			"33"
+		"xpos"			"8"
+		"ypos"			"31"
 		"zpos"			"2"
 		"wide"			"56"
 		"tall"			"56"
@@ -51,7 +50,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"MetalIcon"	
@@ -67,7 +66,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"TanDarker"
 	}
 	
 	"CostLabel"
@@ -75,7 +74,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"HudFontSmall"
-		"fgcolor"		"0 255 0 255"
+		"fgcolor"		"TanDarker"
 		"xpos"			"23"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -112,27 +111,27 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
-		"xpos"			"41"
-		"ypos"			"99"
-		"zpos"			"0"
-		"wide"			"18"
-		"tall"			"18"
+		"xpos"			"26"
+		"ypos"			"78"
+		"zpos"			"3"
+		"wide"			"22"
+		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"NumberLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"HudMenuNumberFont"
+		"font"			"HudFontSmallBold"
 		"fgcolor"		"Black"
-		"xpos"			"0"
-		"ypos"			"98"
-		"zpos"			"1"
+		"xpos"			"-14"
+		"ypos"			"80"
+		"zpos"			"3"
 		"wide"			"100"
 		"tall"			"18"
 		"autoResize"	"0"
@@ -143,6 +142,5 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
 	}
 }

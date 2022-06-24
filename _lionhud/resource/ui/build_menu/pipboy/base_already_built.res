@@ -19,23 +19,23 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
 	}
 	
 	"ItemBackground"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
-		"xpos"			"4"
-		"ypos"			"14"
+		"xpos"			"2"
+		"ypos"			"13"
 		"zpos"			"0"
-		"wide"			"98"
-		"tall"			"105"
+		"wide"			"73"
+		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"0 0 0 255"
+		"iconColor"		"ProgressOffWhiteTransparent"
+		
 	}
 	
 	"CantBuildReason"
@@ -43,8 +43,8 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CantBuildReason"
 		"font"			"Default"
-		"xpos"			"10"
-		"ypos"			"48"
+		"xpos"			"-4"
+		"ypos"			"43"
 		"zpos"			"2"
 		"wide"			"80"
 		"tall"			"18"
@@ -56,7 +56,6 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
 	}
 	
 	"MetalIcon"	
@@ -72,7 +71,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"TanDark"
 	}
 	
 	"CostLabel"
@@ -80,6 +79,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"HudFontSmall"
+		"fgcolor"		"TanDark"
 		"xpos"			"23"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -91,7 +91,6 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"Left"	
-		"fgcolor"		"0 255 0 255"
 	}
 	
 	"ModeLabel"
@@ -111,34 +110,33 @@
 		"enabled"		"1"
 		"labelText"		""
 		"textAlignment"	"East"	
-		"fgcolor"		"0 255 0 255"
 	}
 		
 	"NumberBg"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
-		"xpos"			"41"
-		"ypos"			"99"
-		"zpos"			"0"
-		"wide"			"18"
-		"tall"			"18"
+		"xpos"			"26"
+		"ypos"			"78"
+		"zpos"			"3"
+		"wide"			"22"
+		"tall"			"22"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"NumberLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"HudMenuNumberFont"
+		"font"			"HudFontSmallBold"
 		"fgcolor"		"Black"
-		"xpos"			"0"
-		"ypos"			"98"
-		"zpos"			"1"
+		"xpos"			"-14"
+		"ypos"			"80"
+		"zpos"			"3"
 		"wide"			"100"
 		"tall"			"18"
 		"autoResize"	"0"
@@ -149,6 +147,5 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		"fgcolor"		"0 255 0 255"
 	}
 }
