@@ -58,7 +58,7 @@
 		"xpos"			"10"	[$X360]
 		"ypos"			"10"	[$X360]
 		"wide"	 		"260"
-		"tall"			"75"
+		"tall"			"75" 
 		"wrap"			"1"
 		"autoResize"		"1"
 		"pinCorner"		"1"

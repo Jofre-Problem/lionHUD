@@ -1,5 +1,33 @@
 "Resource/HudLayout.res"
 {
+	"Transparent75"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName" 	"Transparent75"
+		"zpos"		"-100"
+		"wide"		"f0"
+		"tall"		"480"
+		"visible"		"0"
+		"image"		"replay/thumbnails/transparent_viewmodels/transparent75"
+		"scaleImage"	"1"
+	}	
+	"Hitmarker"
+	{
+		"visible"    "0"
+		"xpos""cs-0.5"
+		"ypos""cs-0.5"
+		"wide""40"
+		"tall""o1"
+		"zpos"      "0"
+		"controlName"  "ImagePanel"
+		"fieldName"     "Hitmarker"
+		"enabled"   "1"
+		"image""replay/thumbnails/hitmarkers/x_hitmarker_red"
+		"scaleImage""1"
+		"Alpha""0"
+		"teambg_2""replay/thumbnails/hitmarkers/x_hitmarker_red"
+		"teambg_3""replay/thumbnails/hitmarkers/x_hitmarker_blue"
+	}	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -245,37 +273,29 @@
 		}
 
 	}
-	
-	BuildingStatus_Spy
+	"BuildingStatusAnchor"
 	{
-		"fieldName" "BuildingStatus_Spy"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"32"	[$X360]
-		"ypos"		"16"	[$X360]		
-		"wide"		"640"
-		"tall"		"480"
-		
-		"PaintBackgroundType"	"2"
+		"ControlName"		"EditablePanel"
+		"fieldName"		"BuildingStatusAnchor"
+		"xpos"		"-5"
+		"ypos"		"40"
+		"wide"		"200"
+		"tall"		"240"
+		"enabled"		"1"
 	}
-	
+
 	BuildingStatus_Engineer
 	{
-		"fieldName" "BuildingStatus_Engineer"
-		"visible"	"1"
-		"enabled"	"1"
-		"xpos"		"0"
-		"xpos_hidef"		"32"
-		"xpos_lodef"		"40"
-		"ypos"		"0"
-		"ypos_hidef"		"16"
-		//"ypos_lodef"		"25"
-		"wide"		"640"
-		"tall"		"480"
-		
-		"PaintBackgroundType"	"2"
+		"wide"		"200"
+		"tall"		"240"
+		"pin_to_sibling"	"BuildingStatusAnchor"
+	}
+
+	BuildingStatus_Spy
+	{
+		"wide"		"200"
+		"tall"		"240"
+		"pin_to_sibling"	"BuildingStatusAnchor"
 	}
 	
 	HudMannVsMachineStatus

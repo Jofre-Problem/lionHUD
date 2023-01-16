@@ -2,5 +2,6 @@ hudanimations_manifest
 {
 	"file"		"scripts/hudanimations.txt"
 	"file"		"_lionhud/scripts/hudanimations.txt"
+	"file"		"_lionhud/scripts/hudanimations_x.txt"
 	"file"		"scripts/hudanimations_tf.txt"
 }

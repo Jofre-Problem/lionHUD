@@ -1,5 +1,5 @@
 #base "motd_.res"
-
+#base "safemode_.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	MainMenuOverride
@@ -345,7 +345,72 @@
 		"textAlignment"	"north-west"
 		"use_proportional_insets"	"1"
 	}
+	"SafemodeRework"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"SafemodeRework"
+		"xpos"			"rs1-87"
+		"ypos"			"32"
+		"zpos"			"11"
+		"wide"			"30"
+		"tall"			"25"
+		"visible"		"1"
 
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"f0"
+			"tall"			"f0"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"100"
+			"use_proportional_insets" "1"
+			"font"			"HudFontSmallBold"
+			"textAlignment"	"west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			"RoundedCorners"	"5"
+				"border_default"	"MainMenuButtonDefault"
+				"border_armed"		"MainMenuButtonArmed"			
+			"paintbackground"	"0"
+			
+			"defaultFgColor_override" "46 43 42 255"
+			"armedFgColor_override" "46 43 42 255"
+			"depressedFgColor_override" "46 43 42 255"
+			"defaultbgcolor_override"	"52 52 49 255"
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"235 226 202 255"
+
+			"proportionaltoparent"	"1"
+			
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"cs-0.5"
+				"ypos"			"cs-0.5"
+				"zpos"			"1"
+				"wide"			"20"
+				"tall"			"o1"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"glyph_steamworkshop"
+				"scaleImage"	"1"
+				"drawcolor_override"	"52 52 49 255"
+				"proportionaltoparent"	"1"
+			}				
+		}
+	}	
 	"NoGCImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -1627,10 +1692,9 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"PaintBackgroundType" "0"
 
-		
+			"border_default" "MainMenuSubButtonBorder"	
 		"image_drawcolor"	"235 226 202 255"
 		"SubImage"
-		"border_default" "MainMenuSubButtonBorder"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
