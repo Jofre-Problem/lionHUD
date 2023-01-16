@@ -95,7 +95,7 @@
 			labelText				"Minmode"
 			font					"HudFontSmall"
 			textAlignment			center
-			command				"engine incrementvar cl_hud_minmode -1 2 1"
+			command				"engine toggle cl_hud_minmode"
 			"actionsignallevel"	"2"
 		
 			"sound_depressed"	"UI/buttonclick.wav"

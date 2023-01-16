@@ -43,19 +43,7 @@
 		"pin_to_sibling_corner"        "6"  
 	}
 
-	"CurrencyStatusPanel"
-	{
-		"ControlName"		"CCurrencyStatusPanel"
-		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"0"
-		"ypos"				"r100"
-		"wide"				"100"
-		"tall"				"100"
-		"xpos_minmode"		"105"
-		"ypos_minmode"		"r88"
-		"visible" 			"1"
-		"enabled" 			"1"
-	}
+
 	
 	"InWorldCurrencyPanel"
 	{
@@ -65,7 +53,7 @@
 		"ypos"				"r15"
 		"wide"				"100"
 		"tall"				"100"
-		"xpos_minmode"		"185"
+		"xpos_minmode"		"40"
 		"ypos_minmode"		"r12"
 		"visible" 			"1"
 		"enabled" 			"1"
