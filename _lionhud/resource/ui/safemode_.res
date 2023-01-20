@@ -343,7 +343,7 @@
 				"fieldName"		"MOTD_HeaderLabel2"
 				"font"			"HudFontSmallBold"
 				"textAlignment"	"center"
-				"labelText"		"Advanced Panel"
+				"labelText"		"XHud Advanced Panel"
 				"xpos"			"0"
 				"ypos"			"0"
 				"wide"			"420"

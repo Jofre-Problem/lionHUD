@@ -91,7 +91,7 @@ event UpperChat
 
 event LowerChat
 {
-	Animate HudChat	ypos	r210	Linear 0.0 0.1
+	Animate HudChat	ypos	275	Linear 0.0 0.1
 }
 
 event TallChat
