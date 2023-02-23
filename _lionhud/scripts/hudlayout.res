@@ -1,5 +1,57 @@
 "Resource/HudLayout.res"
 {
+	HudVoiceSelfStatus
+	{
+		"fieldName"				"HudVoiceSelfStatus"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"r42"
+		"ypos"					"360"
+
+		"wide"					"25"
+		"tall"					"25"
+	}
+
+	HudVoiceStatus
+	{
+		"fieldName"				"HudVoiceStatus"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"r177"
+		"ypos"					"-45"
+
+		"zpos"					"100"
+		"wide"					"175"
+		"tall"					"400"
+
+		"item_wide"				"170"
+		"item_tall"				"16"
+		
+		"fade_in_time"			"0.06"
+
+		"fade_out_time"			"0.5"
+		
+		
+		"show_avatar"			"1"
+		"avatar_xpos"			"34"
+		"avatar_ypos"			"2"
+		"avatar_wide"			"12"
+		"avatar_tall"			"12"
+		
+		"show_dead_icon"		"1"
+		"dead_xpos"				"1"
+		"dead_ypos"				"0"
+		"dead_wide"				"16"
+		"dead_tall"				"16"
+		
+		"show_voice_icon"		"1"
+		"icon_ypos"				"0"
+		"icon_xpos"				"15"
+		"icon_tall"				"16"
+		"icon_wide"				"16"
+		
+		"text_xpos"				"58"
+	}
 	"Transparent75"
 	{
 		"ControlName"	"ImagePanel"
