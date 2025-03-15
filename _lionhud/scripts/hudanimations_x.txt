@@ -247,7 +247,14 @@ event TVMRight
 
 //Chat
 event CompetitiveGame_LowerChatWindow{}
-event CompetitiveGame_RestoreChatWindow{}
+
+event CompetitiveGame_RestoreChatWindow
+{
+	RunEvent HealthFixer 0.0
+	SetInputEnabled		giveaway_item	1			0.0
+	RunEventChild		giveaway_item	Refresh		0.0
+
+}
 event HudTournament_MoveChatWindow{}
 
 //==============================================================================
