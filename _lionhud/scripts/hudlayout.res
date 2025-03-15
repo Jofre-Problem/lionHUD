@@ -6,7 +6,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"r42"
-		"ypos"					"360"
+		"ypos"					"360" 
 
 		"wide"					"25"
 		"tall"					"25"
