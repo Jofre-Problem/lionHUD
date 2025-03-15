@@ -23,6 +23,8 @@
 		"ping_width"		"25"
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
+	//	"medal_width"        "28"
+        "medal_column_width" "18"		
 	}
 	"BlueScoreBG"
 	{
